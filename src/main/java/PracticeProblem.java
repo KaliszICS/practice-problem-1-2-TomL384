@@ -1,3 +1,11 @@
+/** 
+        * File: Lesson 1.2 - Integers, Doubles and comments
+		* Author: Tom Leung
+		* Date Created: February 13, 2026
+		* Date Last Modified: February 13, 2026
+		*/
+
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
